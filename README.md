@@ -65,12 +65,3 @@ Example :
 expect(PlaywrightHelper.isElementInView(element)).toBeTruthy();
 
 ```
-
-### PlaywrightHelper.scrollToElement()
-Scrolls the page until the specified element is in the viewport.
-
-Example :
-```
-PlaywrightHelper.scrollToElement(element));
-
-```
