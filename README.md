@@ -1,5 +1,3 @@
-# PlaywrightHelper
-
 ## PlaywrightHelper
 Utility with convenience functions
 ### PlaywrightHelper.validateImageSrc()
